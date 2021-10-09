@@ -1,0 +1,12 @@
+{
+    "all_in_gpu": false,
+    "debug": false,
+    "do_mirroring": true,
+    "overwrite": true,
+    "save_softmax": false,
+    "segmentation_export_kwargs": null,
+    "step_size": 0.5,
+    "use_gaussian": true,
+    "use_sliding_window": true,
+    "validation_folder_name": "validation_raw"
+}

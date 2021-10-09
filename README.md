@@ -1,2 +1,2 @@
-# CRF_EffUNet_OC_OD_seg
+# CRF-EfficientUNet-OC-OD-Segmentation
  Optic Disc, Cup Detection
