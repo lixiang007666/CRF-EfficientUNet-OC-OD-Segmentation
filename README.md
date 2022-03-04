@@ -2,7 +2,7 @@
 
  Optic Disc, Cup Detection. 
 
- Partial code:
+### Partial code:
 
 - EfficientUNet.py:
 
